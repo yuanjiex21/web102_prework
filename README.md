@@ -25,8 +25,12 @@ Here's a walkthrough of implemented features:
 
 <img src='https://imgur.com/a/67zSKuo' title='Sea Monster Walkthrough' width='' alt='Video Walkthrough' />
 
+Another link in case above does not work:
+
+https://imgur.com/a/67zSKuo
+
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with LICECap 
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
